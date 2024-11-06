@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Eze/Desktop/Desarrollo de Videojuegos/Programacion de entornos virtuales/Proyectos/MyProject4/Content/Parcial01_Programacion.umap",
+				"C:/Users/Eze/Desktop/Desarrollo de Videojuegos/Programacion de entornos virtuales/Proyectos/MyProject4/Content/BP_Archer.uasset",
+				"C:/Users/Eze/Desktop/Desarrollo de Videojuegos/Programacion de entornos virtuales/Proyectos/MyProject4/Content/BP_Arrow.uasset",
+				"C:/Users/Eze/Desktop/Desarrollo de Videojuegos/Programacion de entornos virtuales/Proyectos/MyProject4/Content/BP_Orco.uasset",
+				"C:/Users/Eze/Desktop/Desarrollo de Videojuegos/Programacion de entornos virtuales/Proyectos/MyProject4/Content/BP_Enemigo.uasset",
+				"C:/Users/Eze/Desktop/Desarrollo de Videojuegos/Programacion de entornos virtuales/Proyectos/MyProject4/Content/BP_personaje.uasset",
+				"C:/Users/Eze/Desktop/Desarrollo de Videojuegos/Programacion de entornos virtuales/Proyectos/MyProject4/Content/BP_Bala.uasset"
+			]
+		}
+	]
+}
